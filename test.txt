@@ -1,1 +1,4 @@
 Name : Sethu Muralikrishnan
+Age : 29
+Job : Receptionist
+DOB : 06/10/1995
